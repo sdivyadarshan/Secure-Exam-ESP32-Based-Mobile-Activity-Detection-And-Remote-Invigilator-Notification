@@ -179,7 +179,3 @@ Use the prototype only in an environment where wireless scanning is permitted an
 ## License
 
 The repository's existing MIT License is retained. See [LICENSE](LICENSE).
-
-## Media
-
-Add actual project photographs, wiring images, and demonstration links under `media/`. Do not label simulated screenshots or planned tests as real hardware results.
