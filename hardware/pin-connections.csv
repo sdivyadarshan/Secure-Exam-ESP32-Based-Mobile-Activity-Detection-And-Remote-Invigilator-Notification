@@ -1,0 +1,7 @@
+Signal,ESP32 pin,External connection,Function
+LED indicator,GPIO 2,LED anode through 220-330 ohm resistor; cathode to GND,Visual alert output
+Buzzer control,GPIO 15,Active buzzer module input or transistor-driver input,Audible alert output
+Ground,GND,Common ground for external driver circuit,Reference ground
+USB serial,USB connector,Laptop USB port,Programming and 115200-baud serial data
+Wi-Fi,Integrated ESP32 radio,Nearby access points,Wireless scan input
+BLE,Integrated ESP32 radio,Nearby BLE advertisers,Wireless scan input
